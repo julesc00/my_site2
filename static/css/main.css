@@ -1,0 +1,34 @@
+body {
+    background-color: #272727!important;
+}
+.my-card-color {
+    background-color: #d9d9d9;
+}
+.card-text-color {
+    color: #272727;
+}
+#profile-wrapper {
+    text-align: center;
+}
+#profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+.social-links ul, li {
+    list-style-type: none;
+    display: inline-block;
+}
+.social {
+    width: 20px;
+    height: 20px;
+}
+.social:hover {
+    background: darkorange;
+}
